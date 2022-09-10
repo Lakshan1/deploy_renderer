@@ -2,7 +2,7 @@
 name = "deploy_renderer"
 version = "0.1.0"
 description = ""
-authors = [lakshan"]
+authors = ["Marek Kaput <marek.kaput@swmansion.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
